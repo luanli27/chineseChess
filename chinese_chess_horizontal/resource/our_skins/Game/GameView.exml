@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameViewSkin" width="1136" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="1661e3fdbfd" ></w:Config>
+	<e:Image id="bg" width="1136" height="640" verticalCenter="0" horizontalCenter="0" source="gameBg_jpg"/>
+	<ns1:ChessboardView id="Chessboard" width="600" height="650" verticalCenter="0" horizontalCenter="0"/>
+	<ns1:PlayerInfoView id="playerInfo" width="200" height="180" bottom="64" left="56"/>
+	<ns1:enemyInfoView id="enemyInfo" width="200" height="164" x="880" y="53"/>
+	<ns1:StartGameView id="startGamePopup" width="1136" height="640" scaleX="1" scaleY="1" alpha="1" x="0" y="0" enabled="true"/>
+	<ns1:RestartGameView id="restartGamePopup" width="1136" height="640" enabled="false" alpha="0" x="0" y="0"/>
+</e:Skin>

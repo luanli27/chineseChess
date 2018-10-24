@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlayerInfoViewSkin" width="200" height="180" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="166236b02fd" ></w:Config>
+	<e:Image id="bg" width="206" height="181" anchorOffsetX="0" anchorOffsetY="0" source="playerInfoBg_png" verticalCenter="0.5" fillMode="clip" horizontalCenter="3"/>
+	<e:Image id="category" width="70" height="70" anchorOffsetX="0" fillMode="clip" left="3" top="-29"/>
+	<e:Label id="level0" text="局时:" size="17" verticalAlign="middle" textAlign="right" width="63" bold="true" textColor="0xff7005" top="8" horizontalCenter="3.5"/>
+	<e:Label id="roundTimer" text="lv_1" size="17" verticalAlign="middle" textAlign="left" width="63" top="8" horizontalCenter="67.5"/>
+	<e:Label id="level1" text="步时:" size="17" verticalAlign="middle" textAlign="right" width="63" bold="true" textColor="0xFF7005" top="32" horizontalCenter="3.5"/>
+	<e:Label id="stepTimer" text="lv_1" size="17" verticalAlign="middle" textAlign="left" width="63" top="32" horizontalCenter="68.5"/>
+	<e:Image id="head" width="66" height="68" anchorOffsetX="0" verticalCenter="8" horizontalCenter="-54"/>
+	<e:Label id="playerName" text="乱离" size="17" width="78" textAlign="center" verticalCenter="-16" horizontalCenter="31"/>
+	<e:Label id="level" text="lv_1" size="17" verticalAlign="middle" textAlign="center" width="63" verticalCenter="29" horizontalCenter="33.5"/>
+	<e:Image id="head0" width="50" height="27" anchorOffsetX="0" y="147" x="29" source="page_png" fillMode="clip"/>
+	<e:Label id="level2" text="认输" x="29" y="149" size="12" verticalAlign="middle" textAlign="center" width="50" bold="true" textColor="0xffffff" height="27"/>
+	<e:Button id="giveupButton" label="" alpha="0" width="50" height="27" bottom="5" left="29">
+	</e:Button>
+	<e:Image id="head1" width="50" height="27" anchorOffsetX="0" y="148" x="120" source="page_png" fillMode="clip"/>
+	<e:Label id="level3" text="悔棋" x="124" y="149" size="12" verticalAlign="middle" textAlign="center" width="50" bold="true" textColor="0xFFFFFF" height="27"/>
+	<e:Button id="backButton" label="" alpha="0" width="50" height="27" right="26" bottom="3"/>
+</e:Skin>

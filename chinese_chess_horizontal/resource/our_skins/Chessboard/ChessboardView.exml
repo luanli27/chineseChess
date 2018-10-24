@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ChessboardViewSkin" width="600" height="650" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="1661dea48a1" ></w:Config>
+	<e:Image id="ChessboardBg" width="600" height="650" anchorOffsetX="0" anchorOffsetY="0" source="bg_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Group id="ChessGridGroup" width="573" height="568" horizontalCenter="0" y="36">
+		<e:layout>
+			<e:TileLayout horizontalAlign="center" verticalAlign="middle" requestedRowCount="10" requestedColumnCount="9" horizontalGap="0" columnWidth="64" verticalGap="0" rowHeight="58"/>
+		</e:layout>
+		<ns1:ChessGrid width="50" height="50" x="279" y="1.33"/>
+		<ns1:ChessGrid width="50" height="50" x="289" y="1.33"/>
+		<ns1:ChessGrid width="50" height="50" x="299" y="160"/>
+		<ns1:ChessGrid width="50" height="50" x="309" y="170"/>
+		<ns1:ChessGrid width="50" height="50" x="319" y="180"/>
+		<ns1:ChessGrid width="50" height="50" x="329" y="190"/>
+		<ns1:ChessGrid width="50" height="50" x="339" y="200"/>
+		<ns1:ChessGrid width="50" height="50" x="349" y="210"/>
+		<ns1:ChessGrid width="50" height="50" x="359" y="220"/>
+		<ns1:ChessGrid width="50" height="50" x="369" y="230"/>
+		<ns1:ChessGrid width="50" height="50" x="379" y="240"/>
+		<ns1:ChessGrid width="50" height="50" x="389" y="250"/>
+		<ns1:ChessGrid width="50" height="50" x="399" y="260"/>
+		<ns1:ChessGrid width="50" height="50" x="409" y="270"/>
+		<ns1:ChessGrid width="50" height="50" x="419" y="280"/>
+		<ns1:ChessGrid width="50" height="50" x="429" y="290"/>
+		<ns1:ChessGrid width="50" height="50" x="439" y="300"/>
+		<ns1:ChessGrid width="50" height="50" x="449" y="310"/>
+		<ns1:ChessGrid width="50" height="50" x="459" y="320"/>
+		<ns1:ChessGrid width="50" height="50" x="469" y="330"/>
+		<ns1:ChessGrid width="50" height="50" x="479" y="340"/>
+		<ns1:ChessGrid width="50" height="50" x="489" y="350"/>
+		<ns1:ChessGrid width="50" height="50" x="499" y="360"/>
+		<ns1:ChessGrid width="50" height="50" x="509" y="370"/>
+		<ns1:ChessGrid width="50" height="50" x="519" y="380"/>
+		<ns1:ChessGrid width="50" height="50" x="529" y="390"/>
+		<ns1:ChessGrid width="50" height="50" x="539" y="400"/>
+		<ns1:ChessGrid width="50" height="50" x="549" y="410"/>
+		<ns1:ChessGrid width="50" height="50" x="559" y="420"/>
+		<ns1:ChessGrid width="50" height="50" x="569" y="430"/>
+		<ns1:ChessGrid width="50" height="50" x="579" y="440"/>
+		<ns1:ChessGrid width="50" height="50" x="589" y="450"/>
+		<ns1:ChessGrid width="50" height="50" x="599" y="460"/>
+		<ns1:ChessGrid width="50" height="50" x="609" y="470"/>
+		<ns1:ChessGrid width="50" height="50" x="619" y="480"/>
+		<ns1:ChessGrid width="50" height="50" x="629" y="490"/>
+		<ns1:ChessGrid width="50" height="50" x="639" y="500"/>
+		<ns1:ChessGrid width="50" height="50" x="649" y="510"/>
+		<ns1:ChessGrid width="50" height="50" x="659" y="520"/>
+		<ns1:ChessGrid width="50" height="50" x="669" y="530"/>
+		<ns1:ChessGrid width="50" height="50" x="679" y="540"/>
+		<ns1:ChessGrid width="50" height="50" x="689" y="550"/>
+		<ns1:ChessGrid width="50" height="50" x="699" y="560"/>
+		<ns1:ChessGrid width="50" height="50" x="709" y="570"/>
+		<ns1:ChessGrid width="50" height="50" x="719" y="580"/>
+		<ns1:ChessGrid width="50" height="50" x="729" y="590"/>
+		<ns1:ChessGrid width="50" height="50" x="739" y="600"/>
+		<ns1:ChessGrid width="50" height="50" x="749" y="610"/>
+		<ns1:ChessGrid width="50" height="50" x="759" y="620"/>
+		<ns1:ChessGrid width="50" height="50" x="769" y="630"/>
+		<ns1:ChessGrid width="50" height="50" x="779" y="640"/>
+		<ns1:ChessGrid width="50" height="50" x="789" y="650"/>
+		<ns1:ChessGrid width="50" height="50" x="799" y="660"/>
+		<ns1:ChessGrid width="50" height="50" x="809" y="670"/>
+		<ns1:ChessGrid width="50" height="50" x="819" y="680"/>
+		<ns1:ChessGrid width="50" height="50" x="829" y="690"/>
+		<ns1:ChessGrid width="50" height="50" x="839" y="700"/>
+		<ns1:ChessGrid width="50" height="50" x="849" y="710"/>
+		<ns1:ChessGrid width="50" height="50" x="859" y="720"/>
+		<ns1:ChessGrid width="50" height="50" x="869" y="730"/>
+		<ns1:ChessGrid width="50" height="50" x="879" y="740"/>
+		<ns1:ChessGrid width="50" height="50" x="889" y="750"/>
+		<ns1:ChessGrid width="50" height="50" x="899" y="760"/>
+		<ns1:ChessGrid width="50" height="50" x="909" y="770"/>
+		<ns1:ChessGrid width="50" height="50" x="919" y="780"/>
+		<ns1:ChessGrid width="50" height="50" x="929" y="790"/>
+		<ns1:ChessGrid width="50" height="50" x="939" y="800"/>
+		<ns1:ChessGrid width="50" height="50" x="949" y="810"/>
+		<ns1:ChessGrid width="50" height="50" x="959" y="820"/>
+		<ns1:ChessGrid width="50" height="50" x="969" y="830"/>
+		<ns1:ChessGrid width="50" height="50" x="979" y="840"/>
+		<ns1:ChessGrid width="50" height="50" x="989" y="850"/>
+		<ns1:ChessGrid width="50" height="50" x="999" y="860"/>
+		<ns1:ChessGrid width="50" height="50" x="1009" y="870"/>
+		<ns1:ChessGrid width="50" height="50" x="1019" y="880"/>
+		<ns1:ChessGrid width="50" height="50" x="1029" y="890"/>
+		<ns1:ChessGrid width="50" height="50" x="1039" y="900"/>
+		<ns1:ChessGrid width="50" height="50" x="1049" y="910"/>
+		<ns1:ChessGrid width="50" height="50" x="1059" y="920"/>
+		<ns1:ChessGrid width="50" height="50" x="1069" y="930"/>
+		<ns1:ChessGrid width="50" height="50" x="1079" y="940"/>
+		<ns1:ChessGrid width="50" height="50" x="1089" y="950"/>
+		<ns1:ChessGrid width="50" height="50" x="1099" y="960"/>
+		<ns1:ChessGrid width="50" height="50" x="1109" y="970"/>
+		<ns1:ChessGrid width="50" height="50" x="1119" y="980"/>
+		<ns1:ChessGrid width="50" height="50" x="1129" y="990"/>
+		<ns1:ChessGrid width="50" height="50" x="1139" y="1000"/>
+		<ns1:ChessGrid width="50" height="50" x="1149" y="1010"/>
+		<ns1:ChessGrid width="50" height="50" x="1159" y="1020"/>
+		<ns1:ChessGrid width="50" height="50" x="1169" y="1030"/>
+	</e:Group>
+</e:Skin>

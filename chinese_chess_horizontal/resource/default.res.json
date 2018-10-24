@@ -1,0 +1,1465 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,egret_icon_png,description_json,主幻灯遮罩条_png,充值按钮-01_png,充值按钮-02_png,关闭按钮-01_png,关闭按钮-02_png,取消按钮-01_png,取消按钮-02_png,声音禁用按钮-01_png,声音禁用按钮-02_png,报名按钮-01_png,报名按钮-02_png,排行榜按钮-01_png,排行榜按钮-02_png,比赛进行中按钮_png,游戏声音按钮-01_png,游戏声音按钮-02_png,游戏音乐按钮-01_png,游戏音乐按钮-02_png,滚动条-上箭头_png,滚动条-下箭头_png,滚动条-滑动条_png,滚动条-背景槽_png,确定按钮-01_png,确定按钮-02_png,立即参赛按钮-01_png,立即参赛按钮-02_png,背包按钮-01_png,背包按钮-02_png,议和按钮-01_png,议和按钮-02_png,详情按钮-01_png,详情按钮-02_png,进入按钮-01_png,进入按钮-02_png,退出比赛按钮-01_png,退出比赛按钮-02_png,音乐禁用按钮-01_png,音乐禁用按钮-02_png,logo_png,对战书_png,放大镜_png,比赛名称_png,玩家详细信息背景_png,结算信息栏_png,结算框_png,计时框_png,主页签-01_png,主页签-02_png,二级导航背景_png,二级页签-01_png,人像icon_png,休闲场背景框_png,时钟icon_png,比赛列表背景_png,背景_png,详情背景框_png,loading光条_png,loading空槽_png,loading背景_jpg,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png,个人信息区背景_png,排行榜分割线_png,排行榜背景_png,排行榜表头_png,排行榜表格-01_png,排行榜表格-02_png,排行榜页签-01_png,排行榜页签-02_png,金币栏背景_png,金杯_png,铜杯_png,银杯_png,倒计时_png,列表条-01_png,列表条-02_png,列表条-03_png,列表条-04_png,列表条-05_png,列表条-06_png,排行榜弹窗_png,游戏中提示框-02_png,游戏中提示框_png,物品数背景_png,物品框_png,背包框_png,广告-01_jpg,广告-02_jpg,主背景_png,主幻灯-白点_png,主幻灯-灰点_png,bg_jpg,bg_png,bg_源文件_png,b_box_png,b_c_png,b_j_png,b_m_png,b_p_png,b_s_png,b_x_png,b_z_png,r_box_png,r_c_png,r_j_png,r_m_png,r_p_png,r_s_png,r_x_png,r_z_png,棋子_png,playerHead01_png,playerHead03_png,playerHead02_png,CommonNotifyBg_png,dot_png,headBg_png,battleBg_png,playerInfoBg_png,giveupDown_png,giveupnormal_png,page_png,gameBg_jpg,enemyInfoBg_png,black_png,red_png,主幻灯遮罩条2_png,giveupDown2_png,giveupnormal2_png,充值按钮-012_png,充值按钮-022_png,关闭按钮-012_png,关闭按钮-022_png,取消按钮-012_png,取消按钮-022_png,声音禁用按钮-012_png,声音禁用按钮-022_png,报名按钮-012_png,报名按钮-022_png,排行榜按钮-012_png,排行榜按钮-022_png,比赛进行中按钮2_png,游戏声音按钮-012_png,游戏声音按钮-022_png,游戏音乐按钮-012_png,游戏音乐按钮-022_png,滚动条-上箭头2_png,滚动条-下箭头2_png,滚动条-滑动条2_png,滚动条-背景槽2_png,确定按钮-012_png,确定按钮-022_png,立即参赛按钮-012_png,立即参赛按钮-022_png,背包按钮-012_png,背包按钮-022_png,议和按钮-012_png,议和按钮-022_png,详情按钮-012_png,详情按钮-022_png,进入按钮-012_png,进入按钮-022_png,退出比赛按钮-012_png,退出比赛按钮-022_png,音乐禁用按钮-012_png,音乐禁用按钮-022_png,bg2_jpg,bg2_png,bg_源文件2_png,b_box2_png,b_c2_png,b_j2_png,b_m2_png,b_p2_png,b_s2_png,b_x2_png,b_z2_png,dot2_png,r_box2_png,r_c2_png,r_j2_png,r_m2_png,r_p2_png,r_s2_png,r_x2_png,r_z2_png,棋子2_png,black2_png,enemyInfoBg2_png,gameBg2_jpg,logo2_png,playerInfoBg2_png,red2_png,对战书2_png,放大镜2_png,比赛名称2_png,玩家详细信息背景2_png,结算信息栏2_png,结算框2_png,计时框2_png,page2_png,主页签-012_png,主页签-022_png,二级导航背景2_png,二级页签-012_png,人像icon2_png,休闲场背景框2_png,时钟icon2_png,比赛列表背景2_png,背景2_png,详情背景框2_png,loading光条2_png,loading空槽2_png,loading背景2_jpg,12_png,22_png,32_png,42_png,52_png,62_png,72_png,82_png,92_png,battleBg2_png,headBg2_png,playerHead012_png,playerHead022_png,playerHead032_png,个人信息区背景2_png,排行榜分割线2_png,排行榜背景2_png,排行榜表头2_png,排行榜表格-012_png,排行榜表格-022_png,排行榜页签-012_png,排行榜页签-022_png,金币栏背景2_png,金杯2_png,铜杯2_png,银杯2_png,CommonNotifyBg2_png,倒计时2_png,列表条-012_png,列表条-022_png,列表条-032_png,列表条-042_png,列表条-052_png,列表条-062_png,排行榜弹窗2_png,游戏中提示框-022_png,游戏中提示框2_png,物品数背景2_png,物品框2_png,背包框2_png,广告-012_jpg,广告-022_jpg,主背景2_png,主幻灯-白点2_png,主幻灯-灰点2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "主幻灯遮罩条_png",
+			"type": "image",
+			"url": "assets/主幻灯遮罩条.png"
+		},
+		{
+			"name": "充值按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/充值按钮-01.png"
+		},
+		{
+			"name": "充值按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/充值按钮-02.png"
+		},
+		{
+			"name": "关闭按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/关闭按钮-01.png"
+		},
+		{
+			"name": "关闭按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/关闭按钮-02.png"
+		},
+		{
+			"name": "取消按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/取消按钮-01.png"
+		},
+		{
+			"name": "取消按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/取消按钮-02.png"
+		},
+		{
+			"name": "声音禁用按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/声音禁用按钮-01.png"
+		},
+		{
+			"name": "声音禁用按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/声音禁用按钮-02.png"
+		},
+		{
+			"name": "报名按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/报名按钮-01.png"
+		},
+		{
+			"name": "报名按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/报名按钮-02.png"
+		},
+		{
+			"name": "排行榜按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/排行榜按钮-01.png"
+		},
+		{
+			"name": "排行榜按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/排行榜按钮-02.png"
+		},
+		{
+			"name": "比赛进行中按钮_png",
+			"type": "image",
+			"url": "assets/Buttons/比赛进行中按钮.png"
+		},
+		{
+			"name": "游戏声音按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏声音按钮-01.png"
+		},
+		{
+			"name": "游戏声音按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏声音按钮-02.png"
+		},
+		{
+			"name": "游戏音乐按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏音乐按钮-01.png"
+		},
+		{
+			"name": "游戏音乐按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏音乐按钮-02.png"
+		},
+		{
+			"name": "滚动条-上箭头_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-上箭头.png"
+		},
+		{
+			"name": "滚动条-下箭头_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-下箭头.png"
+		},
+		{
+			"name": "滚动条-滑动条_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-滑动条.png"
+		},
+		{
+			"name": "滚动条-背景槽_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-背景槽.png"
+		},
+		{
+			"name": "确定按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/确定按钮-01.png"
+		},
+		{
+			"name": "确定按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/确定按钮-02.png"
+		},
+		{
+			"name": "立即参赛按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/立即参赛按钮-01.png"
+		},
+		{
+			"name": "立即参赛按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/立即参赛按钮-02.png"
+		},
+		{
+			"name": "背包按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/背包按钮-01.png"
+		},
+		{
+			"name": "背包按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/背包按钮-02.png"
+		},
+		{
+			"name": "议和按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/议和按钮-01.png"
+		},
+		{
+			"name": "议和按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/议和按钮-02.png"
+		},
+		{
+			"name": "详情按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/详情按钮-01.png"
+		},
+		{
+			"name": "详情按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/详情按钮-02.png"
+		},
+		{
+			"name": "进入按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/进入按钮-01.png"
+		},
+		{
+			"name": "进入按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/进入按钮-02.png"
+		},
+		{
+			"name": "退出比赛按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/退出比赛按钮-01.png"
+		},
+		{
+			"name": "退出比赛按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/退出比赛按钮-02.png"
+		},
+		{
+			"name": "音乐禁用按钮-01_png",
+			"type": "image",
+			"url": "assets/Buttons/音乐禁用按钮-01.png"
+		},
+		{
+			"name": "音乐禁用按钮-02_png",
+			"type": "image",
+			"url": "assets/Buttons/音乐禁用按钮-02.png"
+		},
+		{
+			"name": "logo_png",
+			"type": "image",
+			"url": "assets/Game/logo.png"
+		},
+		{
+			"name": "对战书_png",
+			"type": "image",
+			"url": "assets/Game/对战书.png"
+		},
+		{
+			"name": "放大镜_png",
+			"type": "image",
+			"url": "assets/Game/放大镜.png"
+		},
+		{
+			"name": "比赛名称_png",
+			"type": "image",
+			"url": "assets/Game/比赛名称.png"
+		},
+		{
+			"name": "玩家详细信息背景_png",
+			"type": "image",
+			"url": "assets/Game/玩家详细信息背景.png"
+		},
+		{
+			"name": "结算信息栏_png",
+			"type": "image",
+			"url": "assets/Game/结算信息栏.png"
+		},
+		{
+			"name": "结算框_png",
+			"type": "image",
+			"url": "assets/Game/结算框.png"
+		},
+		{
+			"name": "计时框_png",
+			"type": "image",
+			"url": "assets/Game/计时框.png"
+		},
+		{
+			"name": "主页签-01_png",
+			"type": "image",
+			"url": "assets/Leftbar/主页签-01.png"
+		},
+		{
+			"name": "主页签-02_png",
+			"type": "image",
+			"url": "assets/Leftbar/主页签-02.png"
+		},
+		{
+			"name": "二级导航背景_png",
+			"type": "image",
+			"url": "assets/Leftbar/二级导航背景.png"
+		},
+		{
+			"name": "二级页签-01_png",
+			"type": "image",
+			"url": "assets/Leftbar/二级页签-01.png"
+		},
+		{
+			"name": "人像icon_png",
+			"type": "image",
+			"url": "assets/Leftbar/人像icon.png"
+		},
+		{
+			"name": "休闲场背景框_png",
+			"type": "image",
+			"url": "assets/Leftbar/休闲场背景框.png"
+		},
+		{
+			"name": "时钟icon_png",
+			"type": "image",
+			"url": "assets/Leftbar/时钟icon.png"
+		},
+		{
+			"name": "比赛列表背景_png",
+			"type": "image",
+			"url": "assets/Leftbar/比赛列表背景.png"
+		},
+		{
+			"name": "背景_png",
+			"type": "image",
+			"url": "assets/Leftbar/背景.png"
+		},
+		{
+			"name": "详情背景框_png",
+			"type": "image",
+			"url": "assets/Leftbar/详情背景框.png"
+		},
+		{
+			"name": "loading光条_png",
+			"type": "image",
+			"url": "assets/Loading/loading光条.png"
+		},
+		{
+			"name": "loading空槽_png",
+			"type": "image",
+			"url": "assets/Loading/loading空槽.png"
+		},
+		{
+			"name": "loading背景_jpg",
+			"type": "image",
+			"url": "assets/Loading/loading背景.jpg"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "assets/Rightbar/1.png"
+		},
+		{
+			"name": "2_png",
+			"type": "image",
+			"url": "assets/Rightbar/2.png"
+		},
+		{
+			"name": "3_png",
+			"type": "image",
+			"url": "assets/Rightbar/3.png"
+		},
+		{
+			"name": "4_png",
+			"type": "image",
+			"url": "assets/Rightbar/4.png"
+		},
+		{
+			"name": "5_png",
+			"type": "image",
+			"url": "assets/Rightbar/5.png"
+		},
+		{
+			"name": "6_png",
+			"type": "image",
+			"url": "assets/Rightbar/6.png"
+		},
+		{
+			"name": "7_png",
+			"type": "image",
+			"url": "assets/Rightbar/7.png"
+		},
+		{
+			"name": "8_png",
+			"type": "image",
+			"url": "assets/Rightbar/8.png"
+		},
+		{
+			"name": "9_png",
+			"type": "image",
+			"url": "assets/Rightbar/9.png"
+		},
+		{
+			"name": "个人信息区背景_png",
+			"type": "image",
+			"url": "assets/Rightbar/个人信息区背景.png"
+		},
+		{
+			"name": "排行榜分割线_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜分割线.png"
+		},
+		{
+			"name": "排行榜背景_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜背景.png"
+		},
+		{
+			"name": "排行榜表头_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜表头.png"
+		},
+		{
+			"name": "排行榜表格-01_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜表格-01.png"
+		},
+		{
+			"name": "排行榜表格-02_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜表格-02.png"
+		},
+		{
+			"name": "排行榜页签-01_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜页签-01.png"
+		},
+		{
+			"name": "排行榜页签-02_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜页签-02.png"
+		},
+		{
+			"name": "金币栏背景_png",
+			"type": "image",
+			"url": "assets/Rightbar/金币栏背景.png"
+		},
+		{
+			"name": "金杯_png",
+			"type": "image",
+			"url": "assets/Rightbar/金杯.png"
+		},
+		{
+			"name": "铜杯_png",
+			"type": "image",
+			"url": "assets/Rightbar/铜杯.png"
+		},
+		{
+			"name": "银杯_png",
+			"type": "image",
+			"url": "assets/Rightbar/银杯.png"
+		},
+		{
+			"name": "倒计时_png",
+			"type": "image",
+			"url": "assets/Windows/倒计时.png"
+		},
+		{
+			"name": "列表条-01_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-01.png"
+		},
+		{
+			"name": "列表条-02_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-02.png"
+		},
+		{
+			"name": "列表条-03_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-03.png"
+		},
+		{
+			"name": "列表条-04_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-04.png"
+		},
+		{
+			"name": "列表条-05_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-05.png"
+		},
+		{
+			"name": "列表条-06_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-06.png"
+		},
+		{
+			"name": "排行榜弹窗_png",
+			"type": "image",
+			"url": "assets/Windows/排行榜弹窗.png"
+		},
+		{
+			"name": "游戏中提示框-02_png",
+			"type": "image",
+			"url": "assets/Windows/游戏中提示框-02.png"
+		},
+		{
+			"name": "游戏中提示框_png",
+			"type": "image",
+			"url": "assets/Windows/游戏中提示框.png"
+		},
+		{
+			"name": "物品数背景_png",
+			"type": "image",
+			"url": "assets/Windows/物品数背景.png"
+		},
+		{
+			"name": "物品框_png",
+			"type": "image",
+			"url": "assets/Windows/物品框.png"
+		},
+		{
+			"name": "背包框_png",
+			"type": "image",
+			"url": "assets/Windows/背包框.png"
+		},
+		{
+			"name": "广告-01_jpg",
+			"type": "image",
+			"url": "assets/广告-01.jpg"
+		},
+		{
+			"name": "广告-02_jpg",
+			"type": "image",
+			"url": "assets/广告-02.jpg"
+		},
+		{
+			"name": "主背景_png",
+			"type": "image",
+			"url": "assets/主背景.png"
+		},
+		{
+			"name": "主幻灯-白点_png",
+			"type": "image",
+			"url": "assets/主幻灯-白点.png"
+		},
+		{
+			"name": "主幻灯-灰点_png",
+			"type": "image",
+			"url": "assets/主幻灯-灰点.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/Chess/bg.jpg"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/Chess/bg.png"
+		},
+		{
+			"name": "bg_源文件_png",
+			"type": "image",
+			"url": "assets/Chess/bg_源文件.png"
+		},
+		{
+			"name": "b_box_png",
+			"type": "image",
+			"url": "assets/Chess/b_box.png"
+		},
+		{
+			"name": "b_c_png",
+			"type": "image",
+			"url": "assets/Chess/b_c.png"
+		},
+		{
+			"name": "b_j_png",
+			"type": "image",
+			"url": "assets/Chess/b_j.png"
+		},
+		{
+			"name": "b_m_png",
+			"type": "image",
+			"url": "assets/Chess/b_m.png"
+		},
+		{
+			"name": "b_p_png",
+			"type": "image",
+			"url": "assets/Chess/b_p.png"
+		},
+		{
+			"name": "b_s_png",
+			"type": "image",
+			"url": "assets/Chess/b_s.png"
+		},
+		{
+			"name": "b_x_png",
+			"type": "image",
+			"url": "assets/Chess/b_x.png"
+		},
+		{
+			"name": "b_z_png",
+			"type": "image",
+			"url": "assets/Chess/b_z.png"
+		},
+		{
+			"name": "r_box_png",
+			"type": "image",
+			"url": "assets/Chess/r_box.png"
+		},
+		{
+			"name": "r_c_png",
+			"type": "image",
+			"url": "assets/Chess/r_c.png"
+		},
+		{
+			"name": "r_j_png",
+			"type": "image",
+			"url": "assets/Chess/r_j.png"
+		},
+		{
+			"name": "r_m_png",
+			"type": "image",
+			"url": "assets/Chess/r_m.png"
+		},
+		{
+			"name": "r_p_png",
+			"type": "image",
+			"url": "assets/Chess/r_p.png"
+		},
+		{
+			"name": "r_s_png",
+			"type": "image",
+			"url": "assets/Chess/r_s.png"
+		},
+		{
+			"name": "r_x_png",
+			"type": "image",
+			"url": "assets/Chess/r_x.png"
+		},
+		{
+			"name": "r_z_png",
+			"type": "image",
+			"url": "assets/Chess/r_z.png"
+		},
+		{
+			"name": "棋子_png",
+			"type": "image",
+			"url": "assets/Chess/棋子.png"
+		},
+		{
+			"name": "playerHead01_png",
+			"type": "image",
+			"url": "assets/Rightbar/playerHead01.png"
+		},
+		{
+			"name": "playerHead03_png",
+			"type": "image",
+			"url": "assets/Rightbar/playerHead03.png"
+		},
+		{
+			"name": "playerHead02_png",
+			"type": "image",
+			"url": "assets/Rightbar/playerHead02.png"
+		},
+		{
+			"name": "CommonNotifyBg_png",
+			"type": "image",
+			"url": "assets/Windows/CommonNotifyBg.png"
+		},
+		{
+			"name": "dot_png",
+			"type": "image",
+			"url": "assets/Chess/dot.png"
+		},
+		{
+			"name": "headBg_png",
+			"type": "image",
+			"url": "assets/Rightbar/headBg.png"
+		},
+		{
+			"name": "battleBg_png",
+			"type": "image",
+			"url": "assets/Rightbar/battleBg.png"
+		},
+		{
+			"name": "playerInfoBg_png",
+			"type": "image",
+			"url": "assets/Game/playerInfoBg.png"
+		},
+		{
+			"name": "giveupDown_png",
+			"type": "image",
+			"url": "assets/Buttons/giveupDown.png"
+		},
+		{
+			"name": "giveupnormal_png",
+			"type": "image",
+			"url": "assets/Buttons/giveupnormal.png"
+		},
+		{
+			"name": "page_png",
+			"type": "image",
+			"url": "assets/Leftbar/page.png"
+		},
+		{
+			"name": "gameBg_jpg",
+			"type": "image",
+			"url": "assets/Game/gameBg.jpg"
+		},
+		{
+			"name": "enemyInfoBg_png",
+			"type": "image",
+			"url": "assets/Game/enemyInfoBg.png"
+		},
+		{
+			"name": "black_png",
+			"type": "image",
+			"url": "assets/Game/black.png"
+		},
+		{
+			"name": "red_png",
+			"type": "image",
+			"url": "assets/Game/red.png"
+		},
+		{
+			"name": "主幻灯遮罩条2_png",
+			"type": "image",
+			"url": "assets/主幻灯遮罩条.png"
+		},
+		{
+			"name": "giveupDown2_png",
+			"type": "image",
+			"url": "assets/Buttons/giveupDown.png"
+		},
+		{
+			"name": "giveupnormal2_png",
+			"type": "image",
+			"url": "assets/Buttons/giveupnormal.png"
+		},
+		{
+			"name": "充值按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/充值按钮-01.png"
+		},
+		{
+			"name": "充值按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/充值按钮-02.png"
+		},
+		{
+			"name": "关闭按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/关闭按钮-01.png"
+		},
+		{
+			"name": "关闭按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/关闭按钮-02.png"
+		},
+		{
+			"name": "取消按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/取消按钮-01.png"
+		},
+		{
+			"name": "取消按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/取消按钮-02.png"
+		},
+		{
+			"name": "声音禁用按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/声音禁用按钮-01.png"
+		},
+		{
+			"name": "声音禁用按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/声音禁用按钮-02.png"
+		},
+		{
+			"name": "报名按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/报名按钮-01.png"
+		},
+		{
+			"name": "报名按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/报名按钮-02.png"
+		},
+		{
+			"name": "排行榜按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/排行榜按钮-01.png"
+		},
+		{
+			"name": "排行榜按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/排行榜按钮-02.png"
+		},
+		{
+			"name": "比赛进行中按钮2_png",
+			"type": "image",
+			"url": "assets/Buttons/比赛进行中按钮.png"
+		},
+		{
+			"name": "游戏声音按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏声音按钮-01.png"
+		},
+		{
+			"name": "游戏声音按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏声音按钮-02.png"
+		},
+		{
+			"name": "游戏音乐按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏音乐按钮-01.png"
+		},
+		{
+			"name": "游戏音乐按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/游戏音乐按钮-02.png"
+		},
+		{
+			"name": "滚动条-上箭头2_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-上箭头.png"
+		},
+		{
+			"name": "滚动条-下箭头2_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-下箭头.png"
+		},
+		{
+			"name": "滚动条-滑动条2_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-滑动条.png"
+		},
+		{
+			"name": "滚动条-背景槽2_png",
+			"type": "image",
+			"url": "assets/Buttons/滚动条-背景槽.png"
+		},
+		{
+			"name": "确定按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/确定按钮-01.png"
+		},
+		{
+			"name": "确定按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/确定按钮-02.png"
+		},
+		{
+			"name": "立即参赛按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/立即参赛按钮-01.png"
+		},
+		{
+			"name": "立即参赛按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/立即参赛按钮-02.png"
+		},
+		{
+			"name": "背包按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/背包按钮-01.png"
+		},
+		{
+			"name": "背包按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/背包按钮-02.png"
+		},
+		{
+			"name": "议和按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/议和按钮-01.png"
+		},
+		{
+			"name": "议和按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/议和按钮-02.png"
+		},
+		{
+			"name": "详情按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/详情按钮-01.png"
+		},
+		{
+			"name": "详情按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/详情按钮-02.png"
+		},
+		{
+			"name": "进入按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/进入按钮-01.png"
+		},
+		{
+			"name": "进入按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/进入按钮-02.png"
+		},
+		{
+			"name": "退出比赛按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/退出比赛按钮-01.png"
+		},
+		{
+			"name": "退出比赛按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/退出比赛按钮-02.png"
+		},
+		{
+			"name": "音乐禁用按钮-012_png",
+			"type": "image",
+			"url": "assets/Buttons/音乐禁用按钮-01.png"
+		},
+		{
+			"name": "音乐禁用按钮-022_png",
+			"type": "image",
+			"url": "assets/Buttons/音乐禁用按钮-02.png"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/Chess/bg.jpg"
+		},
+		{
+			"name": "bg2_png",
+			"type": "image",
+			"url": "assets/Chess/bg.png"
+		},
+		{
+			"name": "bg_源文件2_png",
+			"type": "image",
+			"url": "assets/Chess/bg_源文件.png"
+		},
+		{
+			"name": "b_box2_png",
+			"type": "image",
+			"url": "assets/Chess/b_box.png"
+		},
+		{
+			"name": "b_c2_png",
+			"type": "image",
+			"url": "assets/Chess/b_c.png"
+		},
+		{
+			"name": "b_j2_png",
+			"type": "image",
+			"url": "assets/Chess/b_j.png"
+		},
+		{
+			"name": "b_m2_png",
+			"type": "image",
+			"url": "assets/Chess/b_m.png"
+		},
+		{
+			"name": "b_p2_png",
+			"type": "image",
+			"url": "assets/Chess/b_p.png"
+		},
+		{
+			"name": "b_s2_png",
+			"type": "image",
+			"url": "assets/Chess/b_s.png"
+		},
+		{
+			"name": "b_x2_png",
+			"type": "image",
+			"url": "assets/Chess/b_x.png"
+		},
+		{
+			"name": "b_z2_png",
+			"type": "image",
+			"url": "assets/Chess/b_z.png"
+		},
+		{
+			"name": "dot2_png",
+			"type": "image",
+			"url": "assets/Chess/dot.png"
+		},
+		{
+			"name": "r_box2_png",
+			"type": "image",
+			"url": "assets/Chess/r_box.png"
+		},
+		{
+			"name": "r_c2_png",
+			"type": "image",
+			"url": "assets/Chess/r_c.png"
+		},
+		{
+			"name": "r_j2_png",
+			"type": "image",
+			"url": "assets/Chess/r_j.png"
+		},
+		{
+			"name": "r_m2_png",
+			"type": "image",
+			"url": "assets/Chess/r_m.png"
+		},
+		{
+			"name": "r_p2_png",
+			"type": "image",
+			"url": "assets/Chess/r_p.png"
+		},
+		{
+			"name": "r_s2_png",
+			"type": "image",
+			"url": "assets/Chess/r_s.png"
+		},
+		{
+			"name": "r_x2_png",
+			"type": "image",
+			"url": "assets/Chess/r_x.png"
+		},
+		{
+			"name": "r_z2_png",
+			"type": "image",
+			"url": "assets/Chess/r_z.png"
+		},
+		{
+			"name": "棋子2_png",
+			"type": "image",
+			"url": "assets/Chess/棋子.png"
+		},
+		{
+			"name": "black2_png",
+			"type": "image",
+			"url": "assets/Game/black.png"
+		},
+		{
+			"name": "enemyInfoBg2_png",
+			"type": "image",
+			"url": "assets/Game/enemyInfoBg.png"
+		},
+		{
+			"name": "gameBg2_jpg",
+			"type": "image",
+			"url": "assets/Game/gameBg.jpg"
+		},
+		{
+			"name": "logo2_png",
+			"type": "image",
+			"url": "assets/Game/logo.png"
+		},
+		{
+			"name": "playerInfoBg2_png",
+			"type": "image",
+			"url": "assets/Game/playerInfoBg.png"
+		},
+		{
+			"name": "red2_png",
+			"type": "image",
+			"url": "assets/Game/red.png"
+		},
+		{
+			"name": "对战书2_png",
+			"type": "image",
+			"url": "assets/Game/对战书.png"
+		},
+		{
+			"name": "放大镜2_png",
+			"type": "image",
+			"url": "assets/Game/放大镜.png"
+		},
+		{
+			"name": "比赛名称2_png",
+			"type": "image",
+			"url": "assets/Game/比赛名称.png"
+		},
+		{
+			"name": "玩家详细信息背景2_png",
+			"type": "image",
+			"url": "assets/Game/玩家详细信息背景.png"
+		},
+		{
+			"name": "结算信息栏2_png",
+			"type": "image",
+			"url": "assets/Game/结算信息栏.png"
+		},
+		{
+			"name": "结算框2_png",
+			"type": "image",
+			"url": "assets/Game/结算框.png"
+		},
+		{
+			"name": "计时框2_png",
+			"type": "image",
+			"url": "assets/Game/计时框.png"
+		},
+		{
+			"name": "page2_png",
+			"type": "image",
+			"url": "assets/Leftbar/page.png"
+		},
+		{
+			"name": "主页签-012_png",
+			"type": "image",
+			"url": "assets/Leftbar/主页签-01.png"
+		},
+		{
+			"name": "主页签-022_png",
+			"type": "image",
+			"url": "assets/Leftbar/主页签-02.png"
+		},
+		{
+			"name": "二级导航背景2_png",
+			"type": "image",
+			"url": "assets/Leftbar/二级导航背景.png"
+		},
+		{
+			"name": "二级页签-012_png",
+			"type": "image",
+			"url": "assets/Leftbar/二级页签-01.png"
+		},
+		{
+			"name": "人像icon2_png",
+			"type": "image",
+			"url": "assets/Leftbar/人像icon.png"
+		},
+		{
+			"name": "休闲场背景框2_png",
+			"type": "image",
+			"url": "assets/Leftbar/休闲场背景框.png"
+		},
+		{
+			"name": "时钟icon2_png",
+			"type": "image",
+			"url": "assets/Leftbar/时钟icon.png"
+		},
+		{
+			"name": "比赛列表背景2_png",
+			"type": "image",
+			"url": "assets/Leftbar/比赛列表背景.png"
+		},
+		{
+			"name": "背景2_png",
+			"type": "image",
+			"url": "assets/Leftbar/背景.png"
+		},
+		{
+			"name": "详情背景框2_png",
+			"type": "image",
+			"url": "assets/Leftbar/详情背景框.png"
+		},
+		{
+			"name": "loading光条2_png",
+			"type": "image",
+			"url": "assets/Loading/loading光条.png"
+		},
+		{
+			"name": "loading空槽2_png",
+			"type": "image",
+			"url": "assets/Loading/loading空槽.png"
+		},
+		{
+			"name": "loading背景2_jpg",
+			"type": "image",
+			"url": "assets/Loading/loading背景.jpg"
+		},
+		{
+			"name": "12_png",
+			"type": "image",
+			"url": "assets/Rightbar/1.png"
+		},
+		{
+			"name": "22_png",
+			"type": "image",
+			"url": "assets/Rightbar/2.png"
+		},
+		{
+			"name": "32_png",
+			"type": "image",
+			"url": "assets/Rightbar/3.png"
+		},
+		{
+			"name": "42_png",
+			"type": "image",
+			"url": "assets/Rightbar/4.png"
+		},
+		{
+			"name": "52_png",
+			"type": "image",
+			"url": "assets/Rightbar/5.png"
+		},
+		{
+			"name": "62_png",
+			"type": "image",
+			"url": "assets/Rightbar/6.png"
+		},
+		{
+			"name": "72_png",
+			"type": "image",
+			"url": "assets/Rightbar/7.png"
+		},
+		{
+			"name": "82_png",
+			"type": "image",
+			"url": "assets/Rightbar/8.png"
+		},
+		{
+			"name": "92_png",
+			"type": "image",
+			"url": "assets/Rightbar/9.png"
+		},
+		{
+			"name": "battleBg2_png",
+			"type": "image",
+			"url": "assets/Rightbar/battleBg.png"
+		},
+		{
+			"name": "headBg2_png",
+			"type": "image",
+			"url": "assets/Rightbar/headBg.png"
+		},
+		{
+			"name": "playerHead012_png",
+			"type": "image",
+			"url": "assets/Rightbar/playerHead01.png"
+		},
+		{
+			"name": "playerHead022_png",
+			"type": "image",
+			"url": "assets/Rightbar/playerHead02.png"
+		},
+		{
+			"name": "playerHead032_png",
+			"type": "image",
+			"url": "assets/Rightbar/playerHead03.png"
+		},
+		{
+			"name": "个人信息区背景2_png",
+			"type": "image",
+			"url": "assets/Rightbar/个人信息区背景.png"
+		},
+		{
+			"name": "排行榜分割线2_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜分割线.png"
+		},
+		{
+			"name": "排行榜背景2_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜背景.png"
+		},
+		{
+			"name": "排行榜表头2_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜表头.png"
+		},
+		{
+			"name": "排行榜表格-012_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜表格-01.png"
+		},
+		{
+			"name": "排行榜表格-022_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜表格-02.png"
+		},
+		{
+			"name": "排行榜页签-012_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜页签-01.png"
+		},
+		{
+			"name": "排行榜页签-022_png",
+			"type": "image",
+			"url": "assets/Rightbar/排行榜页签-02.png"
+		},
+		{
+			"name": "金币栏背景2_png",
+			"type": "image",
+			"url": "assets/Rightbar/金币栏背景.png"
+		},
+		{
+			"name": "金杯2_png",
+			"type": "image",
+			"url": "assets/Rightbar/金杯.png"
+		},
+		{
+			"name": "铜杯2_png",
+			"type": "image",
+			"url": "assets/Rightbar/铜杯.png"
+		},
+		{
+			"name": "银杯2_png",
+			"type": "image",
+			"url": "assets/Rightbar/银杯.png"
+		},
+		{
+			"name": "CommonNotifyBg2_png",
+			"type": "image",
+			"url": "assets/Windows/CommonNotifyBg.png"
+		},
+		{
+			"name": "倒计时2_png",
+			"type": "image",
+			"url": "assets/Windows/倒计时.png"
+		},
+		{
+			"name": "列表条-012_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-01.png"
+		},
+		{
+			"name": "列表条-022_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-02.png"
+		},
+		{
+			"name": "列表条-032_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-03.png"
+		},
+		{
+			"name": "列表条-042_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-04.png"
+		},
+		{
+			"name": "列表条-052_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-05.png"
+		},
+		{
+			"name": "列表条-062_png",
+			"type": "image",
+			"url": "assets/Windows/列表条-06.png"
+		},
+		{
+			"name": "排行榜弹窗2_png",
+			"type": "image",
+			"url": "assets/Windows/排行榜弹窗.png"
+		},
+		{
+			"name": "游戏中提示框-022_png",
+			"type": "image",
+			"url": "assets/Windows/游戏中提示框-02.png"
+		},
+		{
+			"name": "游戏中提示框2_png",
+			"type": "image",
+			"url": "assets/Windows/游戏中提示框.png"
+		},
+		{
+			"name": "物品数背景2_png",
+			"type": "image",
+			"url": "assets/Windows/物品数背景.png"
+		},
+		{
+			"name": "物品框2_png",
+			"type": "image",
+			"url": "assets/Windows/物品框.png"
+		},
+		{
+			"name": "背包框2_png",
+			"type": "image",
+			"url": "assets/Windows/背包框.png"
+		},
+		{
+			"name": "广告-012_jpg",
+			"type": "image",
+			"url": "assets/广告-01.jpg"
+		},
+		{
+			"name": "广告-022_jpg",
+			"type": "image",
+			"url": "assets/广告-02.jpg"
+		},
+		{
+			"name": "主背景2_png",
+			"type": "image",
+			"url": "assets/主背景.png"
+		},
+		{
+			"name": "主幻灯-白点2_png",
+			"type": "image",
+			"url": "assets/主幻灯-白点.png"
+		},
+		{
+			"name": "主幻灯-灰点2_png",
+			"type": "image",
+			"url": "assets/主幻灯-灰点.png"
+		}
+	]
+}

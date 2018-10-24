@@ -1,0 +1,4 @@
+class RemotePlayer extends PlayerBase
+{
+
+}

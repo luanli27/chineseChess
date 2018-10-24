@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="enemyInfoViewSkin" width="200" height="164" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1667b9ae4d3" ></w:Config>
+	<e:Image id="bg" width="206" height="150" anchorOffsetX="0" anchorOffsetY="0" fillMode="clip" source="enemyInfoBg_png" verticalCenter="-8" horizontalCenter="3"/>
+	<e:Image id="category" width="70" height="70" anchorOffsetX="0" fillMode="clip" right="1" top="-32"/>
+	<e:Label id="level0" text="局时:" size="17" verticalAlign="middle" textAlign="right" width="63" bold="true" textColor="0xff7005" top="7" left="7"/>
+	<e:Label id="roundTimer" text="lv_1" size="17" verticalAlign="middle" textAlign="left" width="63" top="7" horizontalCenter="6.5"/>
+	<e:Label id="level1" text="步时:" size="17" verticalAlign="middle" textAlign="right" width="63" bold="true" textColor="0xFF7005" top="28" left="7"/>
+	<e:Label id="stepTimer" text="lv_1" size="17" verticalAlign="middle" textAlign="left" width="63" top="28" horizontalCenter="5.5"/>
+	<e:Image id="head" width="66" height="68" anchorOffsetX="0" right="7" bottom="31"/>
+	<e:Label id="playerName" text="乱离" size="17" width="75" textAlign="center" horizontalCenter="-33.5" verticalCenter="-5.5"/>
+	<e:Label id="level" text="lv_1" size="17" verticalAlign="middle" textAlign="center" width="63" verticalCenter="37.5" horizontalCenter="-36.5"/>
+</e:Skin>

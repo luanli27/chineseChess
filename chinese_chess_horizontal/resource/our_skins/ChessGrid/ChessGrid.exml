@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ChessGridSkin" width="50" height="50" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  >
+	<w:Config id="1661e2677a9" ></w:Config>
+	<e:Image id="moveOutImg" width="50" height="50" fillMode="scale" source="" x="0" y="0"/>
+	<e:Image id="gridImg" width="50" height="50" fillMode="clip" source="" x="0" y="0"/>
+	<e:Button id="gridButton" label="" anchorOffsetX="0" width="50" anchorOffsetY="0" height="50" alpha="0" verticalCenter="0" horizontalCenter="0"/>
+</e:Skin>

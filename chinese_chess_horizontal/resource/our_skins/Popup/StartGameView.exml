@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartGameViewSkin" width="1136" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1666757a32c" ></w:Config>
+	<e:Button label="Button" x="0" y="0" alpha="0" enabled="true" width="1136" height="640"/>
+	<e:Image width="200" height="150" source="CommonNotifyBg_png" verticalCenter="4" horizontalCenter="7"/>
+	<e:Button id="StartGameButton" label="开始游戏" x="524" y="314" width="100" height="50"/>
+</e:Skin>
